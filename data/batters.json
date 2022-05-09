@@ -1,0 +1,4688 @@
+[
+  {
+    "id": "haysau01",
+    "name": "Austin Hays",
+    "team_code": "BAL",
+    "team_name": "Baltimore Orioles",
+    "primary_color": "#DF4601",
+    "secondary_color": "#000000",
+    "moving_average": 1.7,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "KCR",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "KCR",
+        "hits": 4,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "MIN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "MIN",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "MIN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "MIN",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "BOS",
+        "hits": 0,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "BOS",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "BOS",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@NYY",
+        "hits": 4,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "anderti01",
+    "name": "Tim Anderson",
+    "team_code": "CHW",
+    "team_name": "Chicago White Sox",
+    "primary_color": "#27251F",
+    "secondary_color": "#C4CED4",
+    "moving_average": 1.6,
+    "games": [
+      {
+        "date": "2022-05-07",
+        "team_played": "@BOS",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@BOS",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@CHC",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@CHC",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "LAA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "LAA",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "LAA",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "LAA",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "KCR",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "KCR",
+        "hits": 2,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "machama01",
+    "name": "Manny Machado",
+    "team_code": "SDN",
+    "team_name": "San Diego Padres",
+    "primary_color": "#2F241D",
+    "secondary_color": "#FFC425",
+    "moving_average": 1.6,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "MIA",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "MIA",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "MIA",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "MIA",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@CLE",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@CLE",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@PIT",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@PIT",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@PIT",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@CIN",
+        "hits": 4,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "roberlu01",
+    "name": "Luis Robert",
+    "team_code": "CHW",
+    "team_name": "Chicago White Sox",
+    "primary_color": "#27251F",
+    "secondary_color": "#C4CED4",
+    "moving_average": 1.4,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@BOS",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@BOS",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@BOS",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@CHC",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "LAA",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "LAA",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "LAA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "LAA",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-21",
+        "team_played": "@CLE",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-20",
+        "team_played": "@CLE",
+        "hits": 0,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "bettsmo01",
+    "name": "Mookie Betts",
+    "team_code": "LAD",
+    "team_name": "Los Angeles Dodgers",
+    "primary_color": "#005A9C",
+    "secondary_color": "#A5ACAF",
+    "moving_average": 1.4,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@CHC",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CHC",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CHC",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "SFG",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "SFG",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "DET",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "DET",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "DET",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@ARI",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@ARI",
+        "hits": 0,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "aguilje01",
+    "name": "Jesus Aguilar",
+    "team_code": "MIA",
+    "team_name": "Miami Marlins",
+    "primary_color": "#00A3E0",
+    "secondary_color": "#EF3340",
+    "moving_average": 1.4,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@SDP",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@SDP",
+        "hits": 0,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@SDP",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@SDP",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "ARI",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "ARI",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "ARI",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "SEA",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "SEA",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@WSN",
+        "hits": 0,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "margoma01",
+    "name": "Manuel Margot",
+    "team_code": "TBA",
+    "team_name": "Tampa Bay Rays",
+    "primary_color": "#092C5C",
+    "secondary_color": "#8FBCE6",
+    "moving_average": 1.4,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@SEA",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@SEA",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@SEA",
+        "hits": 1,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@SEA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@OAK",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@OAK",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@OAK",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "MIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "MIN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "SEA",
+        "hits": 1,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "mountry01",
+    "name": "Ryan Mountcastle",
+    "team_code": "BAL",
+    "team_name": "Baltimore Orioles",
+    "primary_color": "#DF4601",
+    "secondary_color": "#000000",
+    "moving_average": 1.3,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "KCR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "KCR",
+        "hits": 4,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "MIN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "MIN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "MIN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "MIN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "BOS",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "BOS",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "BOS",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@NYY",
+        "hits": 0,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "mullice01",
+    "name": "Cedric Mullins",
+    "team_code": "BAL",
+    "team_name": "Baltimore Orioles",
+    "primary_color": "#DF4601",
+    "secondary_color": "#000000",
+    "moving_average": 1.3,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "KCR",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "KCR",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "MIN",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "MIN",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "MIN",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "MIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "BOS",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "BOS",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "BOS",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@NYY",
+        "hits": 0,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "croncj01",
+    "name": "C.J. Cron",
+    "team_code": "COL",
+    "team_name": "Colorado Rockies",
+    "primary_color": "#33006F",
+    "secondary_color": "#C4CED4",
+    "moving_average": 1.3,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@ARI",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@ARI",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@ARI",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "WSN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "WSN",
+        "hits": 3,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "CIN",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "CIN",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "CIN",
+        "hits": 2,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@PHI",
+        "hits": 1,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "chishja01",
+    "name": "Jazz Chisholm Jr.",
+    "team_code": "MIA",
+    "team_name": "Miami Marlins",
+    "primary_color": "#00A3E0",
+    "secondary_color": "#EF3340",
+    "moving_average": 1.3,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@SDP",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@SDP",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@SDP",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@SDP",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "ARI",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "ARI",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "ARI",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "SEA",
+        "hits": 1,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "SEA",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@WSN",
+        "hits": 2,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "yelicch01",
+    "name": "Christian Yelich",
+    "team_code": "MIL",
+    "team_name": "Milwaukee Brewers",
+    "primary_color": "#12284B",
+    "secondary_color": "#FFC52F",
+    "moving_average": 1.3,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@ATL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@ATL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@ATL",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "CIN",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "CIN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "CIN",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "CHC",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "CHC",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "CHC",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@PIT",
+        "hits": 1,
+        "at_bats": 1
+      }
+    ]
+  },
+  {
+    "id": "judgeaa01",
+    "name": "Aaron Judge",
+    "team_code": "NYY",
+    "team_name": "New York Yankees",
+    "primary_color": "#0C2340",
+    "secondary_color": "#FFFFFF",
+    "moving_average": 1.3,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "TEX",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "TEX",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@TOR",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@TOR",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@TOR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@KCR",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@KCR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "BAL",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "BAL",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "BAL",
+        "hits": 2,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "gamelbe01",
+    "name": "Ben Gamel",
+    "team_code": "PIT",
+    "team_name": "Pittsburgh Pirates",
+    "primary_color": "#FDB827",
+    "secondary_color": "#27251F",
+    "moving_average": 1.3,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@CIN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CIN",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CIN",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@DET",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@DET",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "SDP",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "SDP",
+        "hits": 0,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "SDP",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "MIL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "MIL",
+        "hits": 0,
+        "at_bats": 1
+      }
+    ]
+  },
+  {
+    "id": "drurybr01",
+    "name": "Brandon Drury",
+    "team_code": "CIN",
+    "team_name": "Cincinnati Reds",
+    "primary_color": "#C6011F",
+    "secondary_color": "#000000",
+    "moving_average": 1.2,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "PIT",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "PIT",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "PIT",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@MIL",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@MIL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@MIL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@COL",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@COL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@COL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "SDP",
+        "hits": 1,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "wardta01",
+    "name": "Taylor Ward",
+    "team_code": "LAA",
+    "team_name": "Los Angeles Angels",
+    "primary_color": "#003263",
+    "secondary_color": "#BA0021",
+    "moving_average": 1.2,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "WSN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "WSN",
+        "hits": 0,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@BOS",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@BOS",
+        "hits": 1,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@BOS",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@CHW",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@CHW",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@CHW",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@CHW",
+        "hits": 3,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "tellero01",
+    "name": "Rowdy Tellez",
+    "team_code": "MIL",
+    "team_name": "Milwaukee Brewers",
+    "primary_color": "#12284B",
+    "secondary_color": "#FFC52F",
+    "moving_average": 1.2,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@ATL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@ATL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@ATL",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "CIN",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "CIN",
+        "hits": 4,
+        "at_bats": 6
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "CIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "CHC",
+        "hits": 0,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "CHC",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "CHC",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@PIT",
+        "hits": 0,
+        "at_bats": 2
+      }
+    ]
+  },
+  {
+    "id": "stantmi03",
+    "name": "Giancarlo Stanton",
+    "team_code": "NYY",
+    "team_name": "New York Yankees",
+    "primary_color": "#0C2340",
+    "secondary_color": "#FFFFFF",
+    "moving_average": 1.2,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "TEX",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "TEX",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@TOR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@TOR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@TOR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@KCR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@KCR",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@KCR",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "BAL",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "BAL",
+        "hits": 2,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "segurje01",
+    "name": "Jean Segura",
+    "team_code": "PHI",
+    "team_name": "Philadelphia Phillies",
+    "primary_color": "#E81828",
+    "secondary_color": "#002D72",
+    "moving_average": 1.2,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "NYM",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "NYM",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "NYM",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "TEX",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "TEX",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@NYM",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@NYM",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@NYM",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "francwa01",
+    "name": "Wander Franco",
+    "team_code": "TBA",
+    "team_name": "Tampa Bay Rays",
+    "primary_color": "#092C5C",
+    "secondary_color": "#8FBCE6",
+    "moving_average": 1.2,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@SEA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@SEA",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@SEA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@SEA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@OAK",
+        "hits": 0,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@OAK",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@OAK",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "MIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "MIN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "SEA",
+        "hits": 0,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "arozara01",
+    "name": "Randy Arozarena",
+    "team_code": "TBA",
+    "team_name": "Tampa Bay Rays",
+    "primary_color": "#092C5C",
+    "secondary_color": "#8FBCE6",
+    "moving_average": 1.2,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@SEA",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@SEA",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@SEA",
+        "hits": 4,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@SEA",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@OAK",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@OAK",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@OAK",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "MIN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "MIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "MIN",
+        "hits": 0,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "varshda01",
+    "name": "Daulton Varsho",
+    "team_code": "ARI",
+    "team_name": "Arizona Diamondbacks",
+    "primary_color": "#A71930",
+    "secondary_color": "#E3D4AD",
+    "moving_average": 1.1,
+    "games": [
+      {
+        "date": "2022-05-07",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@MIA",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@MIA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@MIA",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@STL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@STL",
+        "hits": 0,
+        "at_bats": 0
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@STL",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@STL",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "LAD",
+        "hits": 0,
+        "at_bats": 2
+      }
+    ]
+  },
+  {
+    "id": "marteke01",
+    "name": "Ketel Marte",
+    "team_code": "ARI",
+    "team_name": "Arizona Diamondbacks",
+    "primary_color": "#A71930",
+    "secondary_color": "#E3D4AD",
+    "moving_average": 1.1,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "COL",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@MIA",
+        "hits": 2,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@MIA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@STL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@STL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@STL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@STL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "LAD",
+        "hits": 0,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "abreujo02",
+    "name": "Jos\u00e9 Abreu",
+    "team_code": "CHW",
+    "team_name": "Chicago White Sox",
+    "primary_color": "#27251F",
+    "secondary_color": "#C4CED4",
+    "moving_average": 1.1,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@BOS",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@BOS",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@BOS",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@CHC",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@CHC",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "LAA",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "LAA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "LAA",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "LAA",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "KCR",
+        "hits": 1,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "wittbo02",
+    "name": "Bobby Witt",
+    "team_code": "KCR",
+    "team_name": "Kansas City Royals",
+    "primary_color": "#004687",
+    "secondary_color": "#BD9B60",
+    "moving_average": 1.1,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@BAL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "@BAL",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "STL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "STL",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@STL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "NYY",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "NYY",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@CHW",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@CHW",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@CHW",
+        "hits": 2,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "freemfr01",
+    "name": "Freddie Freeman",
+    "team_code": "LAD",
+    "team_name": "Los Angeles Dodgers",
+    "primary_color": "#005A9C",
+    "secondary_color": "#A5ACAF",
+    "moving_average": 1.1,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@CHC",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CHC",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CHC",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "SFG",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "SFG",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "DET",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "DET",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "DET",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@ARI",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@ARI",
+        "hits": 1,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "neusesh01",
+    "name": "Sheldon Neuse",
+    "team_code": "OAK",
+    "team_name": "Oakland Athletics",
+    "primary_color": "#003831",
+    "secondary_color": "#EFB21E",
+    "moving_average": 1.1,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@MIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@MIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@MIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "TBR",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "TBR",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "TBR",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "CLE",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "CLE",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "CLE",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@SFG",
+        "hits": 0,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "hayeske01",
+    "name": "Ke'Bryan Hayes",
+    "team_code": "PIT",
+    "team_name": "Pittsburgh Pirates",
+    "primary_color": "#FDB827",
+    "secondary_color": "#27251F",
+    "moving_average": 1.1,
+    "games": [
+      {
+        "date": "2022-05-07",
+        "team_played": "@CIN",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@DET",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@DET",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "SDP",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "SDP",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "SDP",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "MIL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "MIL",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "MIL",
+        "hits": 3,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "crawfjp01",
+    "name": "J.P. Crawford",
+    "team_code": "SEA",
+    "team_name": "Seattle Mariners",
+    "primary_color": "#0C2C56",
+    "secondary_color": "#005C5C",
+    "moving_average": 1.1,
+    "games": [
+      {
+        "date": "2022-05-07",
+        "team_played": "TBR",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "TBR",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "TBR",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@HOU",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@HOU",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@HOU",
+        "hits": 1,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@MIA",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@MIA",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@MIA",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@TBR",
+        "hits": 1,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "strawmy01",
+    "name": "Myles Straw",
+    "team_code": "CLE",
+    "team_name": "Cleveland Guardians",
+    "primary_color": "#0C2340",
+    "secondary_color": "#E31937",
+    "moving_average": 1.0,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "TOR",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "TOR",
+        "hits": 0,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "TOR",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "TOR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "SDP",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "SDP",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@OAK",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@OAK",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@OAK",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@LAA",
+        "hits": 1,
+        "at_bats": 2
+      }
+    ]
+  },
+  {
+    "id": "grichra01",
+    "name": "Randal Grichuk",
+    "team_code": "COL",
+    "team_name": "Colorado Rockies",
+    "primary_color": "#33006F",
+    "secondary_color": "#C4CED4",
+    "moving_average": 1.0,
+    "games": [
+      {
+        "date": "2022-05-07",
+        "team_played": "@ARI",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@ARI",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "WSN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "WSN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "CIN",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "CIN",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "CIN",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@PHI",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@PHI",
+        "hits": 2,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "beninan01",
+    "name": "Andrew Benintendi",
+    "team_code": "KCR",
+    "team_name": "Kansas City Royals",
+    "primary_color": "#004687",
+    "secondary_color": "#BD9B60",
+    "moving_average": 1.0,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@BAL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "@BAL",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "STL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "STL",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@STL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "NYY",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "NYY",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "NYY",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@CHW",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@CHW",
+        "hits": 1,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "reynobr01",
+    "name": "Bryan Reynolds",
+    "team_code": "PIT",
+    "team_name": "Pittsburgh Pirates",
+    "primary_color": "#FDB827",
+    "secondary_color": "#27251F",
+    "moving_average": 1.0,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@CIN",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CIN",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CIN",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@DET",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@DET",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "SDP",
+        "hits": 1,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "SDP",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "SDP",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "MIL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "MIL",
+        "hits": 1,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "francty01",
+    "name": "Ty France",
+    "team_code": "SEA",
+    "team_name": "Seattle Mariners",
+    "primary_color": "#0C2C56",
+    "secondary_color": "#005C5C",
+    "moving_average": 1.0,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "TBR",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "TBR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "TBR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "TBR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@HOU",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@HOU",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@HOU",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@MIA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@MIA",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@MIA",
+        "hits": 1,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "contrwi01",
+    "name": "Willson Contreras",
+    "team_code": "CHC",
+    "team_name": "Chicago Cubs",
+    "primary_color": "#0E3386",
+    "secondary_color": "#CC3433",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "LAD",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "LAD",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "LAD",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "CHW",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@MIL",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@MIL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@ATL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@ATL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@ATL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-24",
+        "team_played": "PIT",
+        "hits": 1,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "phamth01",
+    "name": "Tommy Pham",
+    "team_code": "CIN",
+    "team_name": "Cincinnati Reds",
+    "primary_color": "#C6011F",
+    "secondary_color": "#000000",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "PIT",
+        "hits": 0,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "PIT",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "PIT",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@MIL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@MIL",
+        "hits": 1,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@MIL",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@COL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@COL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@COL",
+        "hits": 4,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "SDP",
+        "hits": 0,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "milleow01",
+    "name": "Owen Miller",
+    "team_code": "CLE",
+    "team_name": "Cleveland Guardians",
+    "primary_color": "#0C2340",
+    "secondary_color": "#E31937",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "TOR",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "TOR",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "TOR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "SDP",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "SDP",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@OAK",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@OAK",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@OAK",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@LAA",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@LAA",
+        "hits": 2,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "joeco01",
+    "name": "Connor Joe",
+    "team_code": "COL",
+    "team_name": "Colorado Rockies",
+    "primary_color": "#33006F",
+    "secondary_color": "#C4CED4",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@ARI",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@ARI",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@ARI",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "WSN",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "CIN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "CIN",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "CIN",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@PHI",
+        "hits": 0,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@PHI",
+        "hits": 1,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "meadoau01",
+    "name": "Austin Meadows",
+    "team_code": "DET",
+    "team_name": "Detroit Tigers",
+    "primary_color": "#FA4616",
+    "secondary_color": "#FA4616",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-05",
+        "team_played": "@HOU",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "PIT",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "PIT",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@LAD",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@LAD",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@LAD",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@MIN",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@MIN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@MIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-24",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "adamewi01",
+    "name": "Willy Adames",
+    "team_code": "MIL",
+    "team_name": "Milwaukee Brewers",
+    "primary_color": "#12284B",
+    "secondary_color": "#FFC52F",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@ATL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@ATL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@ATL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "CIN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "CIN",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "CIN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "CHC",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "CHC",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "CHC",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@PIT",
+        "hits": 0,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "lemahdj01",
+    "name": "DJ LeMahieu",
+    "team_code": "NYY",
+    "team_name": "New York Yankees",
+    "primary_color": "#0C2340",
+    "secondary_color": "#FFFFFF",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "TEX",
+        "hits": 0,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "TEX",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@TOR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@TOR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@KCR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@KCR",
+        "hits": 0,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@KCR",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "BAL",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "BAL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "BAL",
+        "hits": 2,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "casteni01",
+    "name": "Nick Castellanos",
+    "team_code": "PHI",
+    "team_name": "Philadelphia Phillies",
+    "primary_color": "#E81828",
+    "secondary_color": "#002D72",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "NYM",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "NYM",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "NYM",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "TEX",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@NYM",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@NYM",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@NYM",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "COL",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "COL",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "harpebr03",
+    "name": "Bryce Harper",
+    "team_code": "PHI",
+    "team_name": "Philadelphia Phillies",
+    "primary_color": "#E81828",
+    "secondary_color": "#002D72",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "NYM",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "NYM",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "NYM",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "TEX",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "TEX",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@NYM",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@NYM",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@NYM",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "COL",
+        "hits": 3,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "hosmeer01",
+    "name": "Eric Hosmer",
+    "team_code": "SDN",
+    "team_name": "San Diego Padres",
+    "primary_color": "#2F241D",
+    "secondary_color": "#FFC425",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "MIA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "MIA",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "MIA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "MIA",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@CLE",
+        "hits": 1,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@CLE",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@PIT",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@PIT",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@PIT",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@CIN",
+        "hits": 2,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "florewi01",
+    "name": "Wilmer Flores",
+    "team_code": "SFG",
+    "team_name": "San Francisco Giants",
+    "primary_color": "#FD5A1E",
+    "secondary_color": "#27251F",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "STL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "STL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "STL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "STL",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@LAD",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@LAD",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "WSN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "WSN",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "WSN",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "OAK",
+        "hits": 0,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "fraziad01",
+    "name": "Adam Frazier",
+    "team_code": "SEA",
+    "team_name": "Seattle Mariners",
+    "primary_color": "#0C2C56",
+    "secondary_color": "#005C5C",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "TBR",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "TBR",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "TBR",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "TBR",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@HOU",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@HOU",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@HOU",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@MIA",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@MIA",
+        "hits": 0,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@MIA",
+        "hits": 1,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "garciad02",
+    "name": "Adolis Garc\u00eda",
+    "team_code": "TEX",
+    "team_name": "Texas Rangers",
+    "primary_color": "#003278",
+    "secondary_color": "#C0111F",
+    "moving_average": 0.9,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@NYY",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "@NYY",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@PHI",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@PHI",
+        "hits": 0,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "ATL",
+        "hits": 3,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "ATL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "ATL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "HOU",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "HOU",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "HOU",
+        "hits": 1,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "hoernni01",
+    "name": "Nico Hoerner",
+    "team_code": "CHC",
+    "team_name": "Chicago Cubs",
+    "primary_color": "#0E3386",
+    "secondary_color": "#CC3433",
+    "moving_average": 0.8,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "LAD",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "LAD",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "LAD",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "CHW",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "CHW",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@MIL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@MIL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@MIL",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@ATL",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@ATL",
+        "hits": 1,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "ramirjo01",
+    "name": "Jose Ramirez",
+    "team_code": "CLE",
+    "team_name": "Cleveland Guardians",
+    "primary_color": "#0C2340",
+    "secondary_color": "#E31937",
+    "moving_average": 0.8,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "TOR",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "TOR",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "TOR",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "TOR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "SDP",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "SDP",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@OAK",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@OAK",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@OAK",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@LAA",
+        "hits": 1,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "troutmi01",
+    "name": "Mike Trout",
+    "team_code": "LAA",
+    "team_name": "Los Angeles Angels",
+    "primary_color": "#003263",
+    "secondary_color": "#BA0021",
+    "moving_average": 0.8,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "WSN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "WSN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@BOS",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@BOS",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@CHW",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@CHW",
+        "hits": 2,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@CHW",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@CHW",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "CLE",
+        "hits": 0,
+        "at_bats": 2
+      }
+    ]
+  },
+  {
+    "id": "croneja01",
+    "name": "Jake Cronenworth",
+    "team_code": "SDN",
+    "team_name": "San Diego Padres",
+    "primary_color": "#2F241D",
+    "secondary_color": "#FFC425",
+    "moving_average": 0.8,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "MIA",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "MIA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "MIA",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "MIA",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@CLE",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@CLE",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@PIT",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@PIT",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@PIT",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@CIN",
+        "hits": 0,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "seageco01",
+    "name": "Corey Seager",
+    "team_code": "TEX",
+    "team_name": "Texas Rangers",
+    "primary_color": "#003278",
+    "secondary_color": "#C0111F",
+    "moving_average": 0.8,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@NYY",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "@NYY",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@PHI",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@PHI",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "ATL",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "ATL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "ATL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "HOU",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "HOU",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "HOU",
+        "hits": 1,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "cabremi01",
+    "name": "Miguel Cabrera",
+    "team_code": "DET",
+    "team_name": "Detroit Tigers",
+    "primary_color": "#FA4616",
+    "secondary_color": "#FA4616",
+    "moving_average": 0.7,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@HOU",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@HOU",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@HOU",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@HOU",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "PIT",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@LAD",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@LAD",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@LAD",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@MIN",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@MIN",
+        "hits": 0,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "grossro01",
+    "name": "Robbie Grossman",
+    "team_code": "DET",
+    "team_name": "Detroit Tigers",
+    "primary_color": "#FA4616",
+    "secondary_color": "#FA4616",
+    "moving_average": 0.7,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@HOU",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@HOU",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@HOU",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@HOU",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "PIT",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "PIT",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@LAD",
+        "hits": 0,
+        "at_bats": 0
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@LAD",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@LAD",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@MIN",
+        "hits": 3,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "doziehu01",
+    "name": "Hunter Dozier",
+    "team_code": "KCR",
+    "team_name": "Kansas City Royals",
+    "primary_color": "#004687",
+    "secondary_color": "#BD9B60",
+    "moving_average": 0.7,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@BAL",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "@BAL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "STL",
+        "hits": 1,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "STL",
+        "hits": 1,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@STL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "NYY",
+        "hits": 0,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "NYY",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "NYY",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@CHW",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@CHW",
+        "hits": 0,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "ohtansh01",
+    "name": "Shohei Ohtani",
+    "team_code": "LAA",
+    "team_name": "Los Angeles Angels",
+    "primary_color": "#003263",
+    "secondary_color": "#BA0021",
+    "moving_average": 0.7,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "WSN",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@BOS",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@BOS",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@BOS",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@CHW",
+        "hits": 0,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@CHW",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@CHW",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@CHW",
+        "hits": 2,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "turnetr01",
+    "name": "Trea Turner",
+    "team_code": "LAD",
+    "team_name": "Los Angeles Dodgers",
+    "primary_color": "#005A9C",
+    "secondary_color": "#A5ACAF",
+    "moving_average": 0.7,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@CHC",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CHC",
+        "hits": 0,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@CHC",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "SFG",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "SFG",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "DET",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "DET",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "DET",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@ARI",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@ARI",
+        "hits": 1,
+        "at_bats": 2
+      }
+    ]
+  },
+  {
+    "id": "estrath01",
+    "name": "Thairo Estrada",
+    "team_code": "SFG",
+    "team_name": "San Francisco Giants",
+    "primary_color": "#FD5A1E",
+    "secondary_color": "#27251F",
+    "moving_average": 0.7,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "STL",
+        "hits": 0,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "STL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "STL",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "STL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@LAD",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@LAD",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "WSN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "OAK",
+        "hits": 0,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "crawfbr01",
+    "name": "Brandon Crawford",
+    "team_code": "SFG",
+    "team_name": "San Francisco Giants",
+    "primary_color": "#FD5A1E",
+    "secondary_color": "#27251F",
+    "moving_average": 0.7,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "STL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "STL",
+        "hits": 2,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "STL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@LAD",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@LAD",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "WSN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "WSN",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "OAK",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "OAK",
+        "hits": 0,
+        "at_bats": 1
+      }
+    ]
+  },
+  {
+    "id": "peralda01",
+    "name": "David Peralta",
+    "team_code": "ARI",
+    "team_name": "Arizona Diamondbacks",
+    "primary_color": "#A71930",
+    "secondary_color": "#E3D4AD",
+    "moving_average": 0.6,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "COL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@MIA",
+        "hits": 0,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@MIA",
+        "hits": 0,
+        "at_bats": 0
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "@MIA",
+        "hits": 3,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@STL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@STL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@STL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@STL",
+        "hits": 0,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "suzukse01",
+    "name": "Seiya Suzuki",
+    "team_code": "CHC",
+    "team_name": "Chicago Cubs",
+    "primary_color": "#0E3386",
+    "secondary_color": "#CC3433",
+    "moving_average": 0.5,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "LAD",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "LAD",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "LAD",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "CHW",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "CHW",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@MIL",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@MIL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@MIL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@ATL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@ATL",
+        "hits": 2,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "farmeky01",
+    "name": "Kyle Farmer",
+    "team_code": "CIN",
+    "team_name": "Cincinnati Reds",
+    "primary_color": "#C6011F",
+    "secondary_color": "#000000",
+    "moving_average": 0.5,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "PIT",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "PIT",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "PIT",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@MIL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@MIL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "@COL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "@COL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "@COL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "SDP",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "SDP",
+        "hits": 4,
+        "at_bats": 5
+      }
+    ]
+  },
+  {
+    "id": "murphse01",
+    "name": "Sean Murphy",
+    "team_code": "OAK",
+    "team_name": "Oakland Athletics",
+    "primary_color": "#003831",
+    "secondary_color": "#EFB21E",
+    "moving_average": 0.5,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@MIN",
+        "hits": 2,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@MIN",
+        "hits": 0,
+        "at_bats": 0
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@MIN",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "TBR",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "TBR",
+        "hits": 2,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "TBR",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "CLE",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "CLE",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@SFG",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@SFG",
+        "hits": 0,
+        "at_bats": 3
+      }
+    ]
+  },
+  {
+    "id": "sanchje02",
+    "name": "Jesus Sanchez",
+    "team_code": "MIA",
+    "team_name": "Miami Marlins",
+    "primary_color": "#00A3E0",
+    "secondary_color": "#EF3340",
+    "moving_average": 0.4,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@SDP",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@SDP",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-05",
+        "team_played": "@SDP",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "ARI",
+        "hits": 0,
+        "at_bats": 0
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "ARI",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "ARI",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "SEA",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "SEA",
+        "hits": 0,
+        "at_bats": 1
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "SEA",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "@WSN",
+        "hits": 1,
+        "at_bats": 2
+      }
+    ]
+  },
+  {
+    "id": "kempto01",
+    "name": "Tony Kemp",
+    "team_code": "OAK",
+    "team_name": "Oakland Athletics",
+    "primary_color": "#003831",
+    "secondary_color": "#EFB21E",
+    "moving_average": 0.4,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@MIN",
+        "hits": 0,
+        "at_bats": 0
+      },
+      {
+        "date": "2022-05-07",
+        "team_played": "@MIN",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-06",
+        "team_played": "@MIN",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "TBR",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-02",
+        "team_played": "TBR",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "CLE",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "CLE",
+        "hits": 1,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "CLE",
+        "hits": 1,
+        "at_bats": 2
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "@SFG",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "@SFG",
+        "hits": 0,
+        "at_bats": 4
+      }
+    ]
+  },
+  {
+    "id": "lowena01",
+    "name": "Nathaniel Lowe",
+    "team_code": "TEX",
+    "team_name": "Texas Rangers",
+    "primary_color": "#003278",
+    "secondary_color": "#C0111F",
+    "moving_average": 0.3,
+    "games": [
+      {
+        "date": "2022-05-08",
+        "team_played": "@NYY",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-08",
+        "team_played": "@NYY",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-04",
+        "team_played": "@PHI",
+        "hits": 1,
+        "at_bats": 5
+      },
+      {
+        "date": "2022-05-03",
+        "team_played": "@PHI",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-05-01",
+        "team_played": "ATL",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-30",
+        "team_played": "ATL",
+        "hits": 0,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-29",
+        "team_played": "ATL",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-28",
+        "team_played": "HOU",
+        "hits": 1,
+        "at_bats": 3
+      },
+      {
+        "date": "2022-04-27",
+        "team_played": "HOU",
+        "hits": 0,
+        "at_bats": 4
+      },
+      {
+        "date": "2022-04-26",
+        "team_played": "HOU",
+        "hits": 0,
+        "at_bats": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "team_code": "ARI",
+    "team_name": "Arizona Diamondbacks",
+    "primary_color": "#A71930",
+    "secondary_color": "#E3D4AD"
+  },
+  {
+    "team_code": "ATL",
+    "team_name": "Atlanta Braves",
+    "primary_color": "#13274F",
+    "secondary_color": "#CE1141"
+  },
+  {
+    "team_code": "BAL",
+    "team_name": "Baltimore Orioles",
+    "primary_color": "#DF4601",
+    "secondary_color": "#000000"
+  },
+  {
+    "team_code": "BOS",
+    "team_name": "Boston Red Sox",
+    "primary_color": "#BD3039",
+    "secondary_color": "#0C2340"
+  },
+  {
+    "team_code": "CHC",
+    "team_name": "Chicago Cubs",
+    "primary_color": "#0E3386",
+    "secondary_color": "#CC3433"
+  },
+  {
+    "team_code": "CHW",
+    "team_name": "Chicago White Sox",
+    "primary_color": "#27251F",
+    "secondary_color": "#C4CED4"
+  },
+  {
+    "team_code": "CIN",
+    "team_name": "Cincinnati Reds",
+    "primary_color": "#C6011F",
+    "secondary_color": "#000000"
+  },
+  {
+    "team_code": "CLE",
+    "team_name": "Cleveland Guardians",
+    "primary_color": "#0C2340",
+    "secondary_color": "#E31937"
+  },
+  {
+    "team_code": "COL",
+    "team_name": "Colorado Rockies",
+    "primary_color": "#33006F",
+    "secondary_color": "#C4CED4"
+  },
+  {
+    "team_code": "DET",
+    "team_name": "Detroit Tigers",
+    "primary_color": "#FA4616",
+    "secondary_color": "#FA4616"
+  },
+  {
+    "team_code": "HOU",
+    "team_name": "Houston Astros",
+    "primary_color": "#002D62",
+    "secondary_color": "#EB6E1F"
+  },
+  {
+    "team_code": "KCR",
+    "team_name": "Kansas City Royals",
+    "primary_color": "#004687",
+    "secondary_color": "#BD9B60"
+  },
+  {
+    "team_code": "LAA",
+    "team_name": "Los Angeles Angels",
+    "primary_color": "#003263",
+    "secondary_color": "#BA0021"
+  },
+  {
+    "team_code": "LAD",
+    "team_name": "Los Angeles Dodgers",
+    "primary_color": "#005A9C",
+    "secondary_color": "#A5ACAF"
+  },
+  {
+    "team_code": "MIA",
+    "team_name": "Miami Marlins",
+    "primary_color": "#00A3E0",
+    "secondary_color": "#EF3340"
+  },
+  {
+    "team_code": "MIL",
+    "team_name": "Milwaukee Brewers",
+    "primary_color": "#12284B",
+    "secondary_color": "#FFC52F"
+  },
+  {
+    "team_code": "MIN",
+    "team_name": "Minnesota Twins",
+    "primary_color": "#002B5C",
+    "secondary_color": "#D31145"
+  },
+  {
+    "team_code": "NYM",
+    "team_name": "New York Mets",
+    "primary_color": "#002D72",
+    "secondary_color": "#FF5910"
+  },
+  {
+    "team_code": "NYY",
+    "team_name": "New York Yankees",
+    "primary_color": "#0C2340",
+    "secondary_color": "#FFFFFF"
+  },
+  {
+    "team_code": "OAK",
+    "team_name": "Oakland Athletics",
+    "primary_color": "#003831",
+    "secondary_color": "#EFB21E"
+  },
+  {
+    "team_code": "PHI",
+    "team_name": "Philadelphia Phillies",
+    "primary_color": "#E81828",
+    "secondary_color": "#002D72"
+  },
+  {
+    "team_code": "PIT",
+    "team_name": "Pittsburgh Pirates",
+    "primary_color": "#FDB827",
+    "secondary_color": "#27251F"
+  },
+  {
+    "team_code": "SDN",
+    "team_name": "San Diego Padres",
+    "primary_color": "#2F241D",
+    "secondary_color": "#FFC425"
+  },
+  {
+    "team_code": "SFG",
+    "team_name": "San Francisco Giants",
+    "primary_color": "#FD5A1E",
+    "secondary_color": "#27251F"
+  },
+  {
+    "team_code": "SEA",
+    "team_name": "Seattle Mariners",
+    "primary_color": "#0C2C56",
+    "secondary_color": "#005C5C"
+  },
+  {
+    "team_code": "STL",
+    "team_name": "St. Louis Cardinals",
+    "primary_color": "#C41E3A",
+    "secondary_color": "#0C2340"
+  },
+  {
+    "team_code": "TBA",
+    "team_name": "Tampa Bay Rays",
+    "primary_color": "#092C5C",
+    "secondary_color": "#8FBCE6"
+  },
+  {
+    "team_code": "TEX",
+    "team_name": "Texas Rangers",
+    "primary_color": "#003278",
+    "secondary_color": "#C0111F"
+  },
+  {
+    "team_code": "TOR",
+    "team_name": "Toronto Blue Jays",
+    "primary_color": "#134A8E",
+    "secondary_color": "#E8291C"
+  },
+  {
+    "team_code": "WSN",
+    "team_name": "Washington Nationals",
+    "primary_color": "#AB0003",
+    "secondary_color": "#14225A"
+  }
+]
