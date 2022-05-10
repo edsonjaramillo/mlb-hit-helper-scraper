@@ -21,8 +21,8 @@ def main() -> None:
             batters = TeamsScraper(browser).get_batters(NUM_BATTERS, teams_playing)
             final_batters = StatsScraper(browser).get_stats(batters)
             CMS().update_cms(final_batters)
-    except Exception as e:
-        logger.report_exception(e)
+    except Exception:
+        logger.report_exception()
     finally:
         logger.report_end()
         browser.close_browser()
