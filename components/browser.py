@@ -33,7 +33,7 @@ class Browser:
 
         Parameters:
             `url` (str): URL to be opened."""
-        self.page.goto(url, wait_until="load", timeout=120000)
+        self.page.goto(url, wait_until="domcontentloaded", timeout=12000000)
 
     def close_browser(self) -> None:
         """Closes the browser."""
