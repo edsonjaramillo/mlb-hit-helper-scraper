@@ -1,4 +1,3 @@
-from logger import Logger
 from playwright.sync_api import sync_playwright
 from playwright.sync_api import Browser, Page, Playwright, BrowserContext
 from os import name
