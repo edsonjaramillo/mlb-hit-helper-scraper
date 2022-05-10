@@ -1,5 +1,6 @@
+from typing import List
 from playwright.sync_api import sync_playwright
-from playwright.sync_api import Browser, Page, Playwright, BrowserContext
+from playwright.sync_api import Browser, Page, Playwright, BrowserContext, ElementHandle
 from os import name
 
 
@@ -33,7 +34,7 @@ class Browser:
 
         Parameters:
             `url` (str): URL to be opened."""
-        self.page.goto(url, wait_until="domcontentloaded", timeout=12000000)
+        self.page.goto(url, wait_until="commit", timeout=12000000)
 
     def close_browser(self) -> None:
         """Closes the browser."""
@@ -59,3 +60,29 @@ class Browser:
         Parameters:
             `seconds` (int): Number of seconds to wait."""
         self.page.wait_for_timeout(seconds * 1000)
+
+    def _query_selector(self, selector: str) -> ElementHandle | None:
+        count = 0
+        while True:
+            element = self.page.query_selector(selector)
+            if element:
+                return element
+            count += 1
+            if count == 10:
+                break
+            self._wait(1)
+
+        return None
+
+    def _query_selector_all(self, selector: str) -> List[ElementHandle] | None:
+        count = 0
+        while True:
+            element = self.page.query_selector_all(selector)
+            if element:
+                return element
+            count += 1
+            if count == 10:
+                break
+            self._wait(1)
+
+        return None
