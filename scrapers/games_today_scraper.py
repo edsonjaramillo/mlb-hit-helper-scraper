@@ -49,7 +49,7 @@ class GamesTodayScraper:
             self._teams.append(team)
 
     def today_date(self):
-        """Returns the current date as a string. Ex: 2022-01-01"""
+        """Returns the current date as a string. Ex: TUESDAY JANUARY 1"""
         if name == "nt":
             return datetime.today().strftime('%A %B %#d').upper()
         else:
