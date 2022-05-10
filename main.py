@@ -1,3 +1,4 @@
+from cmath import log
 from components.browser import Browser
 from scrapers.teams_scraper import TeamsScraper
 from scrapers.stats_scraper import StatsScraper
@@ -8,9 +9,11 @@ from components.logger import Logger
 
 def main() -> None:
     NUM_BATTERS = 3
+    logger = Logger()
 
     browser = Browser()
     browser.start_browser(is_headless=True)
+    logger.report_start()
     try:
         has_teams, teams_playing = GamesTodayScraper(browser).get_games()
         has_teams = True
@@ -19,8 +22,9 @@ def main() -> None:
             final_batters = StatsScraper(browser).get_stats(batters)
             CMS().update_cms(final_batters)
     except Exception as e:
-        Logger().report_exception(e)
+        logger.report_exception(e)
     finally:
+        logger.report_end()
         browser.close_browser()
 
 
