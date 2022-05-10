@@ -74,7 +74,7 @@ class TeamsScraper:
 
         Returns:
             `ElementHandle`: The table."""
-        table = self._browser.page.query_selector(f"{table_id}")
+        table = self._browser._query_selector(f"{table_id}")
         table.query_selector(f"[data-stat={data_stat}]").click()
         self._browser._wait(3)
         return table

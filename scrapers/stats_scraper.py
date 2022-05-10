@@ -39,14 +39,14 @@ class StatsScraper:
         self._browser.open_url(
             f"https://www.baseball-reference.com/players/gl.fcgi?id={id}&t=b&year=2022")
         print(f"Scraping {name} from {team_name}")
-        self._browser._wait(0.25)
+        self._browser._wait(3)
 
     def _get_table(self, table_id: str) -> ElementHandle:
-        table = self._browser.page.query_selector(table_id)
+        table = self._browser._query_selector(table_id)
         date_column = table.query_selector(f"[data-stat='date_game']")
         for _ in range(2):
             date_column.click()
-            self._browser._wait(0.25)
+            self._browser._wait(0.5)
         return table
 
     def _get_game_rows(self, table: ElementHandle, games_amount: int) -> List:

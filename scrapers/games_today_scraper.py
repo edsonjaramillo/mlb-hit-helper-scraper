@@ -68,7 +68,7 @@ class GamesTodayScraper:
 
     def _get_schedule(self) -> ElementHandle:
         """Returns the schedule element."""
-        schedule = self._browser.page.query_selector(
+        schedule = self._browser._query_selector(
             ".ScheduleCollectionGridstyle__SectionWrapper-sc-c0iua4-0")
         return schedule
 
