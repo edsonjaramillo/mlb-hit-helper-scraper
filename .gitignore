@@ -4,3 +4,4 @@ Scripts
 credentials.json
 shortcut.py
 pyvenv.cfg
+__pycache__
