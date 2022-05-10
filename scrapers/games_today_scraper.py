@@ -2,6 +2,7 @@ from typing import List, Tuple
 from components.browser import Browser
 from playwright.sync_api import ElementHandle
 from datetime import datetime
+from os import name
 
 
 class GamesTodayScraper:
@@ -49,7 +50,10 @@ class GamesTodayScraper:
 
     def today_date(self):
         """Returns the current date as a string. Ex: 2022-01-01"""
-        return datetime.today().strftime('%A %B %#d').upper()
+        if name == "nt":
+            return datetime.today().strftime('%A %B %#d').upper()
+        else:
+            return datetime.today().strftime('%A %B %-d').upper()
 
     def _has_games_today(self) -> bool:
         """Returns True if there are games today."""
