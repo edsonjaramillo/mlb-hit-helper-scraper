@@ -1,5 +1,6 @@
 from playwright.sync_api import sync_playwright
 from playwright.sync_api import Browser, Page, Playwright, BrowserContext
+from os import name
 
 
 class Browser:
@@ -15,10 +16,17 @@ class Browser:
             `is_headless` (bool): Whether or not to start the browser in headless mode. Default is True."""
         # self._clear_terminal()
         self.playwright = sync_playwright().start()
-        self.browser = self.playwright.firefox.launch(headless=is_headless)
+        self._browser_decision(is_headless)
         self.context = self.browser.new_context(
             viewport={"width": 1920, "height": 1080})
         self.page = self.context.new_page()
+
+    def _browser_decision(self, is_headless: bool) -> None:
+        """Starts browser on chromium for Linux and firefox for Windows."""
+        if name == "posix":
+            self.browser = self.playwright.chromium.launch(headless=is_headless)
+        else:
+            self.browser = self.playwright.firefox.launch(headless=is_headless)
 
     def open_url(self, url: str) -> None:
         """Opens the url in the browser.
