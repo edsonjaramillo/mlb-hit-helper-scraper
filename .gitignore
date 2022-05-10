@@ -5,3 +5,4 @@ credentials.json
 shortcut.py
 pyvenv.cfg
 __pycache__
+logs
