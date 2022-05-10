@@ -1,3 +1,4 @@
+from logger import Logger
 from playwright.sync_api import sync_playwright
 from playwright.sync_api import Browser, Page, Playwright, BrowserContext
 from os import name
@@ -9,12 +10,15 @@ class Browser:
     browser: Browser
     context: BrowserContext
     page: Page
+    logger: Logger
 
     def start_browser(self, is_headless: bool = True) -> None:
         """Boots up the browser with necessary settings.
         Parameters:
             `is_headless` (bool): Whether or not to start the browser in headless mode. Default is True."""
         # self._clear_terminal()
+        self.logger = Logger()
+        self.logger.report_start()
         self.playwright = sync_playwright().start()
         self._browser_decision(is_headless)
         self.context = self.browser.new_context(
