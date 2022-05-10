@@ -15,7 +15,6 @@ def main() -> None:
     logger.report_start()
     try:
         has_teams, teams_playing = GamesTodayScraper(browser).get_games()
-        has_teams = True
         if has_teams == True:
             batters = TeamsScraper(browser).get_batters(NUM_BATTERS, teams_playing)
             final_batters = StatsScraper(browser).get_stats(batters)
