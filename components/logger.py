@@ -19,7 +19,9 @@ class Logger:
         """Reports an exception and its traceback."""
         date_name = self._get_date_name()
         with open(f"logs/{date_name}_error.txt", "w+") as log_file:
-            log_file.write(traceback.format_exc())
+            trace = traceback.format_exc()
+            log_file.write(trace)
+            print(trace)
 
     def report_end(self) -> None:
         """Reports the end of the program."""
