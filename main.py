@@ -1,4 +1,3 @@
-from cmath import log
 from components.browser import Browser
 from scrapers.teams_scraper import TeamsScraper
 from scrapers.stats_scraper import StatsScraper
