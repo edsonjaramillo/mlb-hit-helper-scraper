@@ -1,7 +1,7 @@
 from typing import List, Tuple
 from components.browser import Browser
 from playwright.sync_api import ElementHandle
-from datetime import datetime
+from datetime import date, datetime
 from os import name
 
 
@@ -26,7 +26,8 @@ class GamesTodayScraper:
         - False if there are no games today
         - An empty list if there are no games today
         """
-        self._browser.open_url("https://www.mlb.com/schedule")
+        today = datetime.today().strftime('%m-%d-%Y')
+        self._browser.open_url(f"https://www.mlb.com/schedule/{today}")
         self._browser._wait(2)
         has_games = self._has_games_today()
         if has_games:
