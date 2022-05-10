@@ -28,7 +28,7 @@ class GamesTodayScraper:
         """
         today = datetime.today().strftime('%Y-%m-%d')
         self._browser.open_url(f"https://www.mlb.com/schedule/{today}")
-        self._browser._wait(2)
+        self._browser._wait(5)
         has_games = self._has_games_today()
         if has_games:
             schedule = self._get_schedule()
