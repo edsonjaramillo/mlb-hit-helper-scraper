@@ -54,14 +54,27 @@ class Browser:
             self.page.keyboard.press("End")
             self._wait(seconds_between_scrolls)
 
-    def _wait(self, seconds: int) -> None:
-        """Waits for the specified amount of seconds.
+    def _wait(self, seconds_posix: int, seconds_other: int) -> None:
+        """Waits for the specified amount of seconds. Used to wait between actions.
+        Two different wait times because of the speed difference between the Raspberry Pi and the faster computer
 
         Parameters:
-            `seconds` (int): Number of seconds to wait."""
-        self.page.wait_for_timeout(seconds * 1000)
+            `seconds_posix` (int): Number of seconds to wait if OS is linux.
+            `seconds_other` (int): Number of seconds to wait if OS is not linux."""
+        if name == "posix":
+            self.page.wait_for_timeout(seconds_posix * 1000)
+        else:
+            self.page.wait_for_timeout(seconds_other * 1000)
 
-    def _query_selector(self, selector: str) -> ElementHandle | None:
+    def _query_selector(self, selector: str) -> ElementHandle:
+        """Queries the page for selector give that match the selector. Tries 10 times to find the element
+        in case of slow internet connection.
+
+        Parameters:
+            `selector` (str): Selector to be queried.
+
+        Returns:
+            `ElementHandle`: Element that matches the selector."""
         count = 0
         while True:
             element = self.page.query_selector(selector)
@@ -74,7 +87,15 @@ class Browser:
 
         return None
 
-    def _query_selector_all(self, selector: str) -> List[ElementHandle] | None:
+    def _query_selector_all(self, selector: str) -> List[ElementHandle]:
+        """Queries the page for selector give that match the selector. Tries 10 times to find the list of elements
+        in case of slow internet connection.
+
+        Parameters:
+            `selector` (str): Selector to be queried.
+
+        Returns:
+            `List[ElementHandle]`: List of elements that match the selector."""
         count = 0
         while True:
             element = self.page.query_selector_all(selector)
