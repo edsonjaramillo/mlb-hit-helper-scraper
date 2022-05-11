@@ -1,7 +1,7 @@
 from typing import List, Tuple
 from components.browser import Browser
 from playwright.sync_api import ElementHandle
-from datetime import date, datetime
+from datetime import datetime
 from os import name
 
 
@@ -28,7 +28,7 @@ class GamesTodayScraper:
         """
         today = datetime.today().strftime('%Y-%m-%d')
         self._browser.open_url(f"https://www.mlb.com/schedule/{today}")
-        self._browser._wait(5)
+        self._browser._wait(8, 5)
         has_games = self._has_games_today()
         if has_games:
             schedule = self._get_schedule()
