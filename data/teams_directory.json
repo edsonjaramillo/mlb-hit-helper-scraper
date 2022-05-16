@@ -56,7 +56,7 @@
   {
     "team_code": "DET",
     "team_name": "Detroit Tigers",
-    "primary_color": "#FA4616",
+    "primary_color": "#0C2340",
     "secondary_color": "#FA4616"
   },
   {
@@ -147,7 +147,7 @@
     "team_code": "SEA",
     "team_name": "Seattle Mariners",
     "primary_color": "#0C2C56",
-    "secondary_color": "#005C5C"
+    "secondary_color": "#C4CED4"
   },
   {
     "team_code": "STL",
