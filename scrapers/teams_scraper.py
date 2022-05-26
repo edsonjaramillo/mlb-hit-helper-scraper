@@ -62,7 +62,7 @@ class TeamsScraper:
         self._browser.open_url(
             f"https://www.baseball-reference.com/teams/{team_code}/2022.shtml")
         print(f"Scraping {team_code}")
-        self._browser._wait(5, 3)
+        self._browser._wait(9, 3)
 
     def _get_table(self, table_id: str, data_stat: str) -> ElementHandle:
         """Get the table on webpage, and gets sorted by the data-stat.
@@ -74,9 +74,9 @@ class TeamsScraper:
 
         Returns:
             `ElementHandle`: The table."""
-        table = self._browser._query_selector(f"{table_id}")
+        table = self._browser.page.query_selector(f"{table_id}")
         table.query_selector(f"[data-stat={data_stat}]").click()
-        self._browser._wait(3, 3)
+        self._browser._wait(9, 3)
         return table
 
     def _get_player_rows(self, table: ElementHandle, players_amount) -> List[ElementHandle]:
