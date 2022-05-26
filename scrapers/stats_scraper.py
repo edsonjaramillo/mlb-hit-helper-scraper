@@ -63,7 +63,7 @@ class StatsScraper:
 
         Returns:
             `table` (ElementHandle): The table with the given id."""
-        table = self._browser._query_selector(table_id)
+        table = self._browser.page.query_selector(table_id)
         date_column = table.query_selector(f"[data-stat='date_game']")
         for _ in range(2):
             date_column.click()
