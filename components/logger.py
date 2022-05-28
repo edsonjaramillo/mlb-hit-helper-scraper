@@ -4,30 +4,33 @@ import traceback
 
 
 class Logger:
+    start: str = ""
+    exception: str = "No Exceptions were raised."
+    end: str = ""
 
     def __init__(self):
         self._create_log_folder()
-        self._delete_previous_logs()
 
     def report_start(self) -> None:
         """Reports the start of the program."""
-        date_name = self._get_date_name()
-        with open(f"logs/{date_name}_begin.txt", "w+") as log_file:
-            log_file.write(f"Started at {self._today()}")
+        self.start = f"Started at {self._today()}"
 
     def report_exception(self):
         """Reports an exception and its traceback."""
-        date_name = self._get_date_name()
-        with open(f"logs/{date_name}_error.txt", "w+") as log_file:
-            trace = traceback.format_exc()
-            log_file.write(trace)
-            print(trace)
+        self.exception = traceback.format_exc()
 
     def report_end(self) -> None:
         """Reports the end of the program."""
-        date_name = self._get_date_name()
-        with open(f"logs/{date_name}_end.txt", "w+") as log_file:
-            log_file.write(f"Ended at {self._today()}")
+        self.end = f"Ended at {self._today()}"
+
+    def make_report(self) -> None:
+        """Makes the report."""
+        with open(f"logs/{self._get_date_name()}.txt", "w") as f:
+            f.write(self.start + "\n")
+            f.write(self.exception + "\n")
+            f.write(self.end)
+
+        print("Report created.")
 
     def _delete_previous_logs(self):
         """Deletes the previous logs."""

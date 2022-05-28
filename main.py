@@ -12,8 +12,8 @@ def main() -> None:
 
     browser = Browser()
     browser.start_browser(is_headless=True)
-    logger.report_start()
     try:
+        logger.report_start()
         has_teams, teams_playing = GamesTodayScraper(browser).get_games()
         if has_teams == True:
             batters = TeamsScraper(browser).get_batters(NUM_BATTERS, teams_playing)
@@ -23,6 +23,7 @@ def main() -> None:
         logger.report_exception()
     finally:
         logger.report_end()
+        logger.make_report()
         browser.close_browser()
 
 
