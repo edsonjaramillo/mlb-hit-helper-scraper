@@ -74,9 +74,9 @@ class TeamsScraper:
 
         Returns:
             `ElementHandle`: The table."""
-        table = self._browser.page.query_selector(f"{table_id}")
-        table.query_selector(f"[data-stat={data_stat}]").click()
-        self._browser._wait(9, 3)
+        table = self._browser.page.wait_for_selector(f"{table_id}", timeout=0, state="visible")
+        table.wait_for_selector(f"[data-stat={data_stat}]", timeout=0, state="visible").click()
+        self._browser._wait(3, 3)
         return table
 
     def _get_player_rows(self, table: ElementHandle, players_amount) -> List[ElementHandle]:
